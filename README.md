@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Alex Haskins</h1>
 <h3 align="center">Precision-driven Data Analyst & Power BI Developer with a passion for open source software.</h3>
 
-- 🔭 I’m currently working on **a professional calibration management system and its data automation for QMS KPIs.**
+- 🔭 I’m currently working on **a professional calibration management system and its data automation for QMS KPIs. And data analyses in one of those KPI categories**
 
-- 🌱 I’m currently learning **Advanced Selenium and intermediate Godot**
+- 🌱 I’m currently learning **Advanced Godot**
 
-- 👯 I’m looking to collaborate on **a vampire survivor clone where you rescue survivors of a city being razed *(strong emphasis on 'survivors')***
+- 👯 I’m looking to collaborate on [Arcane Strikers](https://github.com/datavikingr/arcanearena)
 
-- 🤝 I’m looking for help with **MS dynamics API python libraries**
+- 🤝 I’m looking for help with **Selenium-automated Dynamics lookups cross-analyzed against pandas/openpyxl datasets in Python**
 
 - 👨‍💻 All of my projects are available here on [GitHub](https://github.com/datavikingr)
 
 - 📝 I write articles on [Medium](https://medium.com/@datavikingr)
 
-- 💬 Ask me about **Linux, PowerBI, and Python**
+- 💬 Ask me about **Linux, PowerBI, and Python, GDScript**
 
 - 📫 How to reach me **alexanderwantshislibraryback@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alexander-haskins/](https://www.linkedin.com/in/alexander-haskins/)
 
-- ⚡ Fun fact **I like gardening, baking, homebrewing, and bowyering. There's a lot of zen *and* punk in the old ways.**
+- ⚡ Fun fact **I like gardening, baking, homebrewing, and bowyering. The old ways are *punk*.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
