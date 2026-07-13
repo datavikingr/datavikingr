@@ -17,4 +17,5 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alexander-haskins/](https://www.linkedin.com/in/alexander-haskins/)
 
-- ⚡ Fun facts: **I model weather data as far back as local records go (1851!) for the sake of watering my vegetable garden. I like homebrewing, ttrpgs, and biking. Finally, I'm the Secretary of my county's Rec Soccer Program, as well as a coach.**
+- ⚡ Fun facts: **I model local weather data dating back to 1851 to optimize watering for my vegetable garden. I'm also a homebrewer, TTRPG enthusiast, cyclist, and serve as Secretary and coach for my county's recreational soccer program.**
+
