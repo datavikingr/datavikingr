@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex Haskins</h1>
-<h3 align="center">Precision-driven Data Analyst, Engineer & Power BI Developer with a passion for open source software.</h3>
+<h3 align="center">Precision- & Accuracy-driven Data Engineer & python guru with a passion for open source software.</h3>
 
-- 🔭 I’m currently working on **a production email notification system and its underlying data modeling. And production database archiving per ISO:9001 and ISO:17025 requirements.**
+- 🔭 I’m currently working on **a goofy, lazy-loading, RNG dungeon-generator for ttrpgs that I intend to use at my table and sell on itch.io. And archiving/migrating production calibration databases per ISO:9001 and ISO:17025 requirements.**
 
 - 🌱 I’m currently learning **Advanced Godot, Strudel, AWS**
 
@@ -15,8 +15,8 @@
 
 - 💬 Ask me about **Linux, PowerBI, Python, & GDScript**
 
-- 📫 How to reach me **alexanderwantshislibraryback@gmail.com**
+- 📫 How to reach me **alexanderhaskins@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alexander-haskins/](https://www.linkedin.com/in/alexander-haskins/)
 
-- ⚡ Fun fact **I like gardening, baking, homebrewing, ttrpgs, and bowyering. I also model weather data for the sake of my garden.**
+- ⚡ Fun fact **I like gardening, baking, homebrewing, ttrpgs, and bowyering. I also model weather data for the sake of watering my garden.**
