@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a goofy, lazy-loading, RNG dungeon-generator for (any) TTRPGs and archiving/migrating production calibration databases per ISO:9001 and ISO:17025 requirements.**
 
-- I love automating repetitive work and building complex toolchains—from production data pipelines to tiny command-line utilities. If a machine can do it, people shouldn't have to. *I'm literally proving that at my game table.*
+- I love automating repetitive work and building complex toolchains—from production data pipelines to tiny command-line utilities. If a machine can do it, people shouldn't have to. *I'm literally doing it for my game table.*
 
 - 🌱 I’m exploring **advanced AWS architecture, Godot, Strudel, and SFX design**
 
